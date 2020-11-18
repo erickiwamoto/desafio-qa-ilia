@@ -1,0 +1,6 @@
+require 'cucumber'
+require 'faker'
+require 'httparty'
+require 'httparty/request'
+require 'json'
+require 'rspec'

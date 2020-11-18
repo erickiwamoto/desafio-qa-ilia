@@ -1,0 +1,4 @@
+## YAML template
+---
+default: --format progress -p html
+html: --format html --out=results/reports.html
